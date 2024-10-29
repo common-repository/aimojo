@@ -1,0 +1,40 @@
+#af_generator_explain
+{
+	font-size: 14pt;
+	width: 700px;
+	line-height: 20px;
+	padding-bottom: 40px;
+}
+
+.af_control
+{
+	margin: 20px;
+}
+
+.af_input
+{
+	width: 300px;
+}
+
+.af_label
+{
+	margin-left: 10px;
+}
+
+#af_generated_shortcode
+{
+	font-weight: bold;
+	font-size: 15pt;
+	padding-top: 15px;
+}
+
+#af_shortcodeLabel
+{
+	padding-left: 30px;
+	padding-top: 40px;
+}
+
+#af_generated_shortcode_label
+{
+	font-size: 20px;
+}
